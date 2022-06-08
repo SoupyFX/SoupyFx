@@ -10,5 +10,3 @@ I am a CS GCSE Student learning to program, I am intrested in becomeing a full-s
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SoupyFX&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SoupyFX&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=soupyfx&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soupyfx&hide_border=true&layout=compact" align="center" /></div>  
