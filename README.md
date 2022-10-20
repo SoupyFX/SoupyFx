@@ -1,6 +1,8 @@
 # Hey 👋, I'm soupyfx!
 ### Hows it Going!
 I am a CS GCSE Student learning to program, I am intrested in becomeing a full-stack developer. I am also a gamer and is very intreseted in the videogame development
+# Contatct Me
+- Discord soupyfx#1464
 # Tools
 ### Fluent in : ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
 ### Knows some : ![Node.js ](https://img.shields.io/badge/node.js-6DA55F?logo=node.js&logoColor=white&style=for-the-badge)
