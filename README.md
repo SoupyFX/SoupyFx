@@ -1,4 +1,4 @@
-# Hey 👋, I'm soupyfx!
+# Hio, I'm soupyfx!
 ### Hows it Going!
 I am a CS GCSE Student learning to program, I am intrested in becomeing a full-stack developer. I am also a gamer and is very intreseted in the videogame development
 # Tools
