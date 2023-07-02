@@ -10,13 +10,13 @@
 
 ### Goofy ahh ahh
 ![](https://github-readme-stats.vercel.app/api?username=SoupyFX&theme=dark&hide_border=true&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=SoupyFX&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SoupyFX&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 </div>
 
 <h2 align="center" style="margin-top: 0px;">bottom text</h2>
 
-i dont use github that much thats why its so empty in here
+<p align="center" >i dont use github that much thats why its so empty in here </p>
+
 
 
 
